@@ -1,0 +1,31 @@
+league,event,domain,score,verdict,indicators
+NBA,Minnesota Timberwolves at Cleveland Cavaliers,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Minnesota Timberwolves at Cleveland Cavaliers,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Washington Wizards at Charlotte Hornets,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Washington Wizards at Charlotte Hornets,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NHL,Los Angeles Kings at New York Rangers,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NHL,Los Angeles Kings at New York Rangers,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Chicago Bulls at Boston Celtics,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Chicago Bulls at Boston Celtics,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Dallas Mavericks at Miami Heat,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Dallas Mavericks at Miami Heat,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+MLB,Milwaukee Brewers at Tampa Bay Rays,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+MLB,Milwaukee Brewers at Tampa Bay Rays,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Indiana Pacers at Milwaukee Bucks,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Indiana Pacers at Milwaukee Bucks,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Phoenix Suns at Oklahoma City Thunder,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Phoenix Suns at Oklahoma City Thunder,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+WNBA,Atlanta Dream at Golden State Valkyries,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+WNBA,Atlanta Dream at Golden State Valkyries,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NFL,Dallas Cowboys at Philadelphia Eagles,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NFL,Dallas Cowboys at Philadelphia Eagles,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Atlanta Hawks at Houston Rockets,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Atlanta Hawks at Houston Rockets,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NHL,Toronto Maple Leafs at Calgary Flames,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NHL,Toronto Maple Leafs at Calgary Flames,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Memphis Grizzlies at Utah Jazz,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Memphis Grizzlies at Utah Jazz,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NHL,Detroit Red Wings at Edmonton Oilers,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NHL,Detroit Red Wings at Edmonton Oilers,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Golden State Warriors at Denver Nuggets,www.nfl.com,-1,LOW - no strong indicators in this check,domain matches a known legal broadcaster or league site; no clear license or rights statement found in page text
+NBA,Golden State Warriors at Denver Nuggets,example.com,3,MEDIUM - needs teacher review,domain is not a known legal broadcaster or league site; no clear license or rights statement found in page text
