@@ -1,0 +1,62 @@
+channel,category,owner,legal_service,legal_url,notes
+ABC,Broadcast,Disney,ABC / Hulu,https://abc.com/,Local ABC is free on antenna, ABC shows on Hulu
+CBS,Broadcast,Paramount,CBS / Paramount+,https://www.paramountplus.com/,Local CBS is free on antenna, CBS shows on Paramount+
+NBC,Broadcast,NBCUniversal,NBC / Peacock,https://www.peacocktv.com/,Local NBC is free on antenna, NBC shows on Peacock
+Fox,Broadcast,Fox,Fox / Fox One,https://www.fox.com/,Local Fox is free on antenna
+The CW,Broadcast,Nexstar / Warner Bros. Discovery,The CW app,https://www.cwtv.com/,The CW app has free episodes, live is on antenna in many markets
+PBS,Broadcast,PBS,PBS app,https://www.pbs.org/,PBS app has free live stream in many markets
+AMC,Entertainment,AMC Networks,AMC+,https://www.amcplus.com/,AMC live channel is on AMC+ and on cable / live TV apps
+BET,Entertainment,Paramount,BET+ / Paramount+,https://www.bet.com/,BET live is on cable and Paramount+ with Showtime, BET+ has on demand
+HBO,Premium,Warner Bros. Discovery,Max,https://www.max.com/,HBO is now on Max, no free legal live HBO stream
+Cartoon Network,Kids,Warner Bros. Discovery,Max,https://www.max.com/,Cartoon Network live is on cable and Max, Adult Swim late night is on Max
+Disney Channel,Kids,Disney,Disney+,https://www.disneyplus.com/,Disney Channel live is on cable and Disney+, select shows on demand
+Disney Jr,Kids,Disney,Disney+,https://www.disneyplus.com/,Disney Jr live is on cable and Disney+
+Disney XD,Kids,Disney,Disney+,https://www.disneyplus.com/,Disney XD live is on cable and Disney+
+Nickelodeon,Kids,Paramount,Paramount+,https://www.paramountplus.com/,Nickelodeon live is on cable and Paramount+
+Nick Jr,Kids,Paramount,Paramount+,https://www.paramountplus.com/,Nick Jr live is on cable and Paramount+
+Nicktoons,Kids,Paramount,Paramount+,https://www.paramountplus.com/,Nicktoons live is on cable and Paramount+
+Boomerang,Kids,Warner Bros. Discovery,Max,https://www.max.com/,Boomerang live is on cable and Max
+Cartoonito,Kids,Warner Bros. Discovery,Max,https://www.max.com/,Cartoonito is a block on Cartoon Network and Max
+Comedy Central,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,Comedy Central live is on cable and Paramount+
+FX,Entertainment,Disney,Hulu,https://www.hulu.com/,FX live is on cable and Hulu, FX shows on Hulu on demand
+FXX,Entertainment,Disney,Hulu,https://www.hulu.com/,FXX live is on cable and Hulu
+TNT,Entertainment,Warner Bros. Discovery,Max,https://www.max.com/,TNT live is on cable and Max, sports on TNT are also on Max
+TBS,Entertainment,Warner Bros. Discovery,Max,https://www.max.com/,TBS live is on cable and Max
+USA Network,Entertainment,NBCUniversal,Peacock,https://www.peacocktv.com/,USA live is on cable and Peacock
+Syfy,Entertainment,NBCUniversal,Peacock,https://www.peacocktv.com/,Syfy live is on cable and Peacock
+Bravo,Entertainment,NBCUniversal,Peacock,https://www.peacocktv.com/,Bravo live is on cable and Peacock, next day on Peacock
+E!,Entertainment,NBCUniversal,Peacock,https://www.peacocktv.com/,E! live is on cable and Peacock
+Oxygen,Entertainment,NBCUniversal,Peacock,https://www.peacocktv.com/,Oxygen live is on cable and Peacock
+A&E,Entertainment,A&E Networks,Hulu,https://www.hulu.com/,A&E live is on cable and Hulu
+History,Entertainment,A&E Networks,Hulu,https://www.hulu.com/,History live is on cable and Hulu
+Discovery,Entertainment,Warner Bros. Discovery,Max / Discovery+,https://www.max.com/,Discovery live is on cable and Max
+Animal Planet,Entertainment,Warner Bros. Discovery,Max / Discovery+,https://www.max.com/,Animal Planet live is on cable and Max
+TLC,Entertainment,Warner Bros. Discovery,Max / Discovery+,https://www.max.com/,TLC live is on cable and Max
+OWN,Entertainment,Warner Bros. Discovery,Max,https://www.max.com/,OWN live is on cable and Max
+Hallmark,Entertainment,Hallmark,Hallmark+,https://www.hallmarkplus.com/,Hallmark live is on cable and Hallmark+
+Lifetime,Entertainment,A&E Networks,Hulu,https://www.hulu.com/,Lifetime live is on cable and Hulu
+WE tv,Entertainment,AMC Networks,AMC+,https://www.amcplus.com/,WE tv live is on cable and AMC+
+TV Land,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,TV Land live is on cable and Paramount+
+Paramount Network,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,Paramount Network live is on cable and Paramount+
+CMT,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,CMT live is on cable and Paramount+
+MTV,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,MTV live is on cable and Paramount+
+MTV2,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,MTV2 live is on cable and Paramount+
+VH1,Entertainment,Paramount,Paramount+,https://www.paramountplus.com/,VH1 live is on cable and Paramount+
+BET Her,Entertainment,Paramount,BET+ / Paramount+,https://www.bet.com/,BET Her live is on cable and BET+
+ESPN,Sports,Disney,ESPN app,https://www.espn.com/,ESPN live needs a TV provider or ESPN Unlimited, select free clips on ESPN.com
+ESPN2,Sports,Disney,ESPN app,https://www.espn.com/,ESPN2 live needs a TV provider or ESPN Unlimited
+ESPNews,Sports,Disney,ESPN app,https://www.espn.com/,ESPNews live needs a TV provider or ESPN Unlimited
+FS1,Sports,Fox,Fox One,https://www.fox.com/,FS1 live needs a TV provider or Fox One
+FS2,Sports,Fox,Fox One,https://www.fox.com/,FS2 live needs a TV provider or Fox One
+NFL Network,Sports,NFL,NFL+,https://www.nfl.com/,NFL Network live needs a TV provider or NFL+
+NBA TV,Sports,NBA,NBA League Pass,https://www.nba.com/,NBA TV live needs a TV provider or NBA League Pass
+MLB Network,Sports,MLB,MLB.tv,https://www.mlb.com/,MLB Network live needs a TV provider or MLB.tv
+NHL Network,Sports,NHL,ESPN+,https://www.espn.com/,NHL Network live needs a TV provider
+Golf Channel,Sports,NBCUniversal,Peacock,https://www.peacocktv.com/,Golf Channel live is on cable and Peacock
+Tennis Channel,Sports,Sinclair,Tennis Channel app,https://www.tennischannel.com/,Tennis Channel live needs a TV provider
+CNN,News,Warner Bros. Discovery,Max,https://www.max.com/,CNN live is on cable and Max, CNN.com has free clips
+MSNBC,News,NBCUniversal,Peacock,https://www.peacocktv.com/,MSNBC live is on cable and Peacock
+Fox News,News,Fox,Fox Nation,https://www.foxnews.com/,Fox News live is on cable and Fox Nation
+Food Network,Lifestyle,Warner Bros. Discovery,Max / Discovery+,https://www.max.com/,Food Network live is on cable and Max
+HGTV,Lifestyle,Warner Bros. Discovery,Max / Discovery+,https://www.max.com/,HGTV live is on cable and Max
+Turner Classic Movies,Movies,Warner Bros. Discovery,Max,https://www.max.com/,TCM live is on cable and Max
