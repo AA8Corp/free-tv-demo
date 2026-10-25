@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-26",
+  "count": 15,
+  "games": [
+    {
+      "league": "NBA",
+      "event": "Minnesota Timberwolves at Cleveland Cavaliers",
+      "date": "2026-10-26",
+      "kickoff_et": "19:00",
+      "legal_broadcaster": "NBA League Pass",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Washington Wizards at Charlotte Hornets",
+      "date": "2026-10-26",
+      "kickoff_et": "19:00",
+      "legal_broadcaster": "MNMT",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as MNMT on ESPN."
+    },
+    {
+      "league": "NHL",
+      "event": "Los Angeles Kings at New York Rangers",
+      "date": "2026-10-26",
+      "kickoff_et": "19:00",
+      "legal_broadcaster": "NHL Net",
+      "legal_source_url": "https://www.nhl.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NHL Net on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Chicago Bulls at Boston Celtics",
+      "date": "2026-10-26",
+      "kickoff_et": "19:30",
+      "legal_broadcaster": "NBA League Pass",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Dallas Mavericks at Miami Heat",
+      "date": "2026-10-26",
+      "kickoff_et": "19:30",
+      "legal_broadcaster": "NBA TV",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA TV on ESPN."
+    },
+    {
+      "league": "MLB",
+      "event": "Milwaukee Brewers at Tampa Bay Rays",
+      "date": "2026-10-26",
+      "kickoff_et": "20:00",
+      "legal_broadcaster": "Fox",
+      "legal_source_url": "https://www.mlb.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as Fox on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Indiana Pacers at Milwaukee Bucks",
+      "date": "2026-10-26",
+      "kickoff_et": "20:00",
+      "legal_broadcaster": "NBA League Pass",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Phoenix Suns at Oklahoma City Thunder",
+      "date": "2026-10-26",
+      "kickoff_et": "20:00",
+      "legal_broadcaster": "NBA League Pass",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+    },
+    {
+      "league": "WNBA",
+      "event": "Atlanta Dream at Golden State Valkyries",
+      "date": "2026-10-26",
+      "kickoff_et": "20:00",
+      "legal_broadcaster": "USA Net",
+      "legal_source_url": "https://www.wnba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as USA Net on ESPN."
+    },
+    {
+      "league": "NFL",
+      "event": "Dallas Cowboys at Philadelphia Eagles",
+      "date": "2026-10-26",
+      "kickoff_et": "20:15",
+      "legal_broadcaster": "ESPN",
+      "legal_source_url": "https://www.nfl.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as ESPN on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Atlanta Hawks at Houston Rockets",
+      "date": "2026-10-26",
+      "kickoff_et": "20:30",
+      "legal_broadcaster": "NBA League Pass",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+    },
+    {
+      "league": "NHL",
+      "event": "Toronto Maple Leafs at Calgary Flames",
+      "date": "2026-10-26",
+      "kickoff_et": "20:30",
+      "legal_broadcaster": "ESPN+",
+      "legal_source_url": "https://www.nhl.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as ESPN+ on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Memphis Grizzlies at Utah Jazz",
+      "date": "2026-10-26",
+      "kickoff_et": "21:00",
+      "legal_broadcaster": "NBA League Pass",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+    },
+    {
+      "league": "NHL",
+      "event": "Detroit Red Wings at Edmonton Oilers",
+      "date": "2026-10-26",
+      "kickoff_et": "21:30",
+      "legal_broadcaster": "ESPN+",
+      "legal_source_url": "https://www.nhl.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as ESPN+ on ESPN."
+    },
+    {
+      "league": "NBA",
+      "event": "Golden State Warriors at Denver Nuggets",
+      "date": "2026-10-26",
+      "kickoff_et": "22:00",
+      "legal_broadcaster": "NBCSN",
+      "legal_source_url": "https://www.nba.com/",
+      "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBCSN on ESPN."
+    }
+  ]
+}
