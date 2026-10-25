@@ -1,0 +1,780 @@
+{
+  "tool": "AA8 Instructor Dashboard Runner",
+  "version": "1.1.0",
+  "generated_at_et": "2026-10-25T07:55:52.930112-04:00",
+  "leagues": [
+    "NFL",
+    "NBA",
+    "WNBA",
+    "NCAA Football",
+    "NCAA Basketball"
+  ],
+  "note": "Teacher only answer key. Scores are indicators, not a legal finding of infringement. Lab Player in the dashboard plays legal and owned HLS streams only, with an allowlist. No links to suspected pirate pages in the dashboard. Full URLs are in this JSON only, for takedown evidence.",
+  "events": [
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Minnesota Timberwolves at Cleveland Cavaliers",
+        "date": "2026-10-26",
+        "kickoff_et": "19:00",
+        "legal_broadcaster": "NBA League Pass",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:55:54.274842+00:00",
+          "league": "NBA",
+          "event": "Minnesota Timberwolves at Cleveland Cavaliers",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:55:55.346246+00:00",
+          "league": "NBA",
+          "event": "Minnesota Timberwolves at Cleveland Cavaliers",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Washington Wizards at Charlotte Hornets",
+        "date": "2026-10-26",
+        "kickoff_et": "19:00",
+        "legal_broadcaster": "MNMT",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as MNMT on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:55:56.178051+00:00",
+          "league": "NBA",
+          "event": "Washington Wizards at Charlotte Hornets",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:55:56.509637+00:00",
+          "league": "NBA",
+          "event": "Washington Wizards at Charlotte Hornets",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NHL",
+        "event": "Los Angeles Kings at New York Rangers",
+        "date": "2026-10-26",
+        "kickoff_et": "19:00",
+        "legal_broadcaster": "NHL Net",
+        "legal_source_url": "https://www.nhl.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NHL Net on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "e8da01020f90c3a4ea5cb87e245b8e900cf0a775acd5b7bf6874e5cef0ff101c",
+          "checked_at_utc": "2026-10-25T11:55:57.190924+00:00",
+          "league": "NHL",
+          "event": "Los Angeles Kings at New York Rangers",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:55:57.516567+00:00",
+          "league": "NHL",
+          "event": "Los Angeles Kings at New York Rangers",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Chicago Bulls at Boston Celtics",
+        "date": "2026-10-26",
+        "kickoff_et": "19:30",
+        "legal_broadcaster": "NBA League Pass",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:55:58.188412+00:00",
+          "league": "NBA",
+          "event": "Chicago Bulls at Boston Celtics",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:55:58.404062+00:00",
+          "league": "NBA",
+          "event": "Chicago Bulls at Boston Celtics",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Dallas Mavericks at Miami Heat",
+        "date": "2026-10-26",
+        "kickoff_et": "19:30",
+        "legal_broadcaster": "NBA TV",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA TV on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:55:59.100675+00:00",
+          "league": "NBA",
+          "event": "Dallas Mavericks at Miami Heat",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:55:59.419505+00:00",
+          "league": "NBA",
+          "event": "Dallas Mavericks at Miami Heat",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "MLB",
+        "event": "Milwaukee Brewers at Tampa Bay Rays",
+        "date": "2026-10-26",
+        "kickoff_et": "20:00",
+        "legal_broadcaster": "Fox",
+        "legal_source_url": "https://www.mlb.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as Fox on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:55:59.997595+00:00",
+          "league": "MLB",
+          "event": "Milwaukee Brewers at Tampa Bay Rays",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:00.321873+00:00",
+          "league": "MLB",
+          "event": "Milwaukee Brewers at Tampa Bay Rays",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Indiana Pacers at Milwaukee Bucks",
+        "date": "2026-10-26",
+        "kickoff_et": "20:00",
+        "legal_broadcaster": "NBA League Pass",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:00.982237+00:00",
+          "league": "NBA",
+          "event": "Indiana Pacers at Milwaukee Bucks",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:01.211006+00:00",
+          "league": "NBA",
+          "event": "Indiana Pacers at Milwaukee Bucks",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Phoenix Suns at Oklahoma City Thunder",
+        "date": "2026-10-26",
+        "kickoff_et": "20:00",
+        "legal_broadcaster": "NBA League Pass",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:01.884151+00:00",
+          "league": "NBA",
+          "event": "Phoenix Suns at Oklahoma City Thunder",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:02.085502+00:00",
+          "league": "NBA",
+          "event": "Phoenix Suns at Oklahoma City Thunder",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "WNBA",
+        "event": "Atlanta Dream at Golden State Valkyries",
+        "date": "2026-10-26",
+        "kickoff_et": "20:00",
+        "legal_broadcaster": "USA Net",
+        "legal_source_url": "https://www.wnba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as USA Net on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:02.521310+00:00",
+          "league": "WNBA",
+          "event": "Atlanta Dream at Golden State Valkyries",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:02.743160+00:00",
+          "league": "WNBA",
+          "event": "Atlanta Dream at Golden State Valkyries",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NFL",
+        "event": "Dallas Cowboys at Philadelphia Eagles",
+        "date": "2026-10-26",
+        "kickoff_et": "20:15",
+        "legal_broadcaster": "ESPN",
+        "legal_source_url": "https://www.nfl.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as ESPN on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:03.584911+00:00",
+          "league": "NFL",
+          "event": "Dallas Cowboys at Philadelphia Eagles",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:04.061356+00:00",
+          "league": "NFL",
+          "event": "Dallas Cowboys at Philadelphia Eagles",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Atlanta Hawks at Houston Rockets",
+        "date": "2026-10-26",
+        "kickoff_et": "20:30",
+        "legal_broadcaster": "NBA League Pass",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:04.888801+00:00",
+          "league": "NBA",
+          "event": "Atlanta Hawks at Houston Rockets",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:05.163067+00:00",
+          "league": "NBA",
+          "event": "Atlanta Hawks at Houston Rockets",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NHL",
+        "event": "Toronto Maple Leafs at Calgary Flames",
+        "date": "2026-10-26",
+        "kickoff_et": "20:30",
+        "legal_broadcaster": "ESPN+",
+        "legal_source_url": "https://www.nhl.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as ESPN+ on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:05.729918+00:00",
+          "league": "NHL",
+          "event": "Toronto Maple Leafs at Calgary Flames",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:05.962914+00:00",
+          "league": "NHL",
+          "event": "Toronto Maple Leafs at Calgary Flames",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Memphis Grizzlies at Utah Jazz",
+        "date": "2026-10-26",
+        "kickoff_et": "21:00",
+        "legal_broadcaster": "NBA League Pass",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBA League Pass on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:06.794264+00:00",
+          "league": "NBA",
+          "event": "Memphis Grizzlies at Utah Jazz",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:07.184786+00:00",
+          "league": "NBA",
+          "event": "Memphis Grizzlies at Utah Jazz",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NHL",
+        "event": "Detroit Red Wings at Edmonton Oilers",
+        "date": "2026-10-26",
+        "kickoff_et": "21:30",
+        "legal_broadcaster": "ESPN+",
+        "legal_source_url": "https://www.nhl.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as ESPN+ on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:07.897793+00:00",
+          "league": "NHL",
+          "event": "Detroit Red Wings at Edmonton Oilers",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:08.239168+00:00",
+          "league": "NHL",
+          "event": "Detroit Red Wings at Edmonton Oilers",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    },
+    {
+      "event": {
+        "league": "NBA",
+        "event": "Golden State Warriors at Denver Nuggets",
+        "date": "2026-10-26",
+        "kickoff_et": "22:00",
+        "legal_broadcaster": "NBCSN",
+        "legal_source_url": "https://www.nba.com/",
+        "notes": "Auto-detected from ESPN scoreboard for 2026-10-26. Broadcast listed as NBCSN on ESPN."
+      },
+      "status": "checked",
+      "findings": [
+        {
+          "url": "https://www.nfl.com/",
+          "domain": "www.nfl.com",
+          "http_status": 200,
+          "content_type": "",
+          "score": -1,
+          "verdict": "LOW - no strong indicators in this check",
+          "indicators": [
+            "domain matches a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "9b950b4231b441c5466243d4f42344d1438dfa2032630484b60c278e27036a9f",
+          "checked_at_utc": "2026-10-25T11:56:08.878276+00:00",
+          "league": "NBA",
+          "event": "Golden State Warriors at Denver Nuggets",
+          "search_query": "",
+          "search_provider": "mock"
+        },
+        {
+          "url": "https://example.com/",
+          "domain": "example.com",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "score": 3,
+          "verdict": "MEDIUM - needs teacher review",
+          "indicators": [
+            "domain is not a known legal broadcaster or league site",
+            "no clear license or rights statement found in page text"
+          ],
+          "page_text_hash": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+          "checked_at_utc": "2026-10-25T11:56:09.243092+00:00",
+          "league": "NBA",
+          "event": "Golden State Warriors at Denver Nuggets",
+          "search_query": "",
+          "search_provider": "mock"
+        }
+      ],
+      "alert_count": 0
+    }
+  ]
+}
