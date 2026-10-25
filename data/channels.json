@@ -1,0 +1,493 @@
+{
+  "count": 61,
+  "channels": [
+    {
+      "channel": "ABC",
+      "category": "Broadcast",
+      "owner": "Disney",
+      "legal_service": "ABC / Hulu",
+      "legal_url": "https://abc.com/",
+      "notes": "Local ABC is free on antenna, ABC shows on Hulu"
+    },
+    {
+      "channel": "CBS",
+      "category": "Broadcast",
+      "owner": "Paramount",
+      "legal_service": "CBS / Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "Local CBS is free on antenna, CBS shows on Paramount+"
+    },
+    {
+      "channel": "NBC",
+      "category": "Broadcast",
+      "owner": "NBCUniversal",
+      "legal_service": "NBC / Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "Local NBC is free on antenna, NBC shows on Peacock"
+    },
+    {
+      "channel": "Fox",
+      "category": "Broadcast",
+      "owner": "Fox",
+      "legal_service": "Fox / Fox One",
+      "legal_url": "https://www.fox.com/",
+      "notes": "Local Fox is free on antenna"
+    },
+    {
+      "channel": "The CW",
+      "category": "Broadcast",
+      "owner": "Nexstar / Warner Bros. Discovery",
+      "legal_service": "The CW app",
+      "legal_url": "https://www.cwtv.com/",
+      "notes": "The CW app has free episodes, live is on antenna in many markets"
+    },
+    {
+      "channel": "PBS",
+      "category": "Broadcast",
+      "owner": "PBS",
+      "legal_service": "PBS app",
+      "legal_url": "https://www.pbs.org/",
+      "notes": "PBS app has free live stream in many markets"
+    },
+    {
+      "channel": "AMC",
+      "category": "Entertainment",
+      "owner": "AMC Networks",
+      "legal_service": "AMC+",
+      "legal_url": "https://www.amcplus.com/",
+      "notes": "AMC live channel is on AMC+ and on cable / live TV apps"
+    },
+    {
+      "channel": "BET",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "BET+ / Paramount+",
+      "legal_url": "https://www.bet.com/",
+      "notes": "BET live is on cable and Paramount+ with Showtime, BET+ has on demand"
+    },
+    {
+      "channel": "HBO",
+      "category": "Premium",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "HBO is now on Max, no free legal live HBO stream"
+    },
+    {
+      "channel": "Cartoon Network",
+      "category": "Kids",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "Cartoon Network live is on cable and Max, Adult Swim late night is on Max"
+    },
+    {
+      "channel": "Disney Channel",
+      "category": "Kids",
+      "owner": "Disney",
+      "legal_service": "Disney+",
+      "legal_url": "https://www.disneyplus.com/",
+      "notes": "Disney Channel live is on cable and Disney+, select shows on demand"
+    },
+    {
+      "channel": "Disney Jr",
+      "category": "Kids",
+      "owner": "Disney",
+      "legal_service": "Disney+",
+      "legal_url": "https://www.disneyplus.com/",
+      "notes": "Disney Jr live is on cable and Disney+"
+    },
+    {
+      "channel": "Disney XD",
+      "category": "Kids",
+      "owner": "Disney",
+      "legal_service": "Disney+",
+      "legal_url": "https://www.disneyplus.com/",
+      "notes": "Disney XD live is on cable and Disney+"
+    },
+    {
+      "channel": "Nickelodeon",
+      "category": "Kids",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "Nickelodeon live is on cable and Paramount+"
+    },
+    {
+      "channel": "Nick Jr",
+      "category": "Kids",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "Nick Jr live is on cable and Paramount+"
+    },
+    {
+      "channel": "Nicktoons",
+      "category": "Kids",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "Nicktoons live is on cable and Paramount+"
+    },
+    {
+      "channel": "Boomerang",
+      "category": "Kids",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "Boomerang live is on cable and Max"
+    },
+    {
+      "channel": "Cartoonito",
+      "category": "Kids",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "Cartoonito is a block on Cartoon Network and Max"
+    },
+    {
+      "channel": "Comedy Central",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "Comedy Central live is on cable and Paramount+"
+    },
+    {
+      "channel": "FX",
+      "category": "Entertainment",
+      "owner": "Disney",
+      "legal_service": "Hulu",
+      "legal_url": "https://www.hulu.com/",
+      "notes": "FX live is on cable and Hulu, FX shows on Hulu on demand"
+    },
+    {
+      "channel": "FXX",
+      "category": "Entertainment",
+      "owner": "Disney",
+      "legal_service": "Hulu",
+      "legal_url": "https://www.hulu.com/",
+      "notes": "FXX live is on cable and Hulu"
+    },
+    {
+      "channel": "TNT",
+      "category": "Entertainment",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "TNT live is on cable and Max, sports on TNT are also on Max"
+    },
+    {
+      "channel": "TBS",
+      "category": "Entertainment",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "TBS live is on cable and Max"
+    },
+    {
+      "channel": "USA Network",
+      "category": "Entertainment",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "USA live is on cable and Peacock"
+    },
+    {
+      "channel": "Syfy",
+      "category": "Entertainment",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "Syfy live is on cable and Peacock"
+    },
+    {
+      "channel": "Bravo",
+      "category": "Entertainment",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "Bravo live is on cable and Peacock, next day on Peacock"
+    },
+    {
+      "channel": "E!",
+      "category": "Entertainment",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "E! live is on cable and Peacock"
+    },
+    {
+      "channel": "Oxygen",
+      "category": "Entertainment",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "Oxygen live is on cable and Peacock"
+    },
+    {
+      "channel": "A&E",
+      "category": "Entertainment",
+      "owner": "A&E Networks",
+      "legal_service": "Hulu",
+      "legal_url": "https://www.hulu.com/",
+      "notes": "A&E live is on cable and Hulu"
+    },
+    {
+      "channel": "History",
+      "category": "Entertainment",
+      "owner": "A&E Networks",
+      "legal_service": "Hulu",
+      "legal_url": "https://www.hulu.com/",
+      "notes": "History live is on cable and Hulu"
+    },
+    {
+      "channel": "Discovery",
+      "category": "Entertainment",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max / Discovery+",
+      "legal_url": "https://www.max.com/",
+      "notes": "Discovery live is on cable and Max"
+    },
+    {
+      "channel": "Animal Planet",
+      "category": "Entertainment",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max / Discovery+",
+      "legal_url": "https://www.max.com/",
+      "notes": "Animal Planet live is on cable and Max"
+    },
+    {
+      "channel": "TLC",
+      "category": "Entertainment",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max / Discovery+",
+      "legal_url": "https://www.max.com/",
+      "notes": "TLC live is on cable and Max"
+    },
+    {
+      "channel": "OWN",
+      "category": "Entertainment",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "OWN live is on cable and Max"
+    },
+    {
+      "channel": "Hallmark",
+      "category": "Entertainment",
+      "owner": "Hallmark",
+      "legal_service": "Hallmark+",
+      "legal_url": "https://www.hallmarkplus.com/",
+      "notes": "Hallmark live is on cable and Hallmark+"
+    },
+    {
+      "channel": "Lifetime",
+      "category": "Entertainment",
+      "owner": "A&E Networks",
+      "legal_service": "Hulu",
+      "legal_url": "https://www.hulu.com/",
+      "notes": "Lifetime live is on cable and Hulu"
+    },
+    {
+      "channel": "WE tv",
+      "category": "Entertainment",
+      "owner": "AMC Networks",
+      "legal_service": "AMC+",
+      "legal_url": "https://www.amcplus.com/",
+      "notes": "WE tv live is on cable and AMC+"
+    },
+    {
+      "channel": "TV Land",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "TV Land live is on cable and Paramount+"
+    },
+    {
+      "channel": "Paramount Network",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "Paramount Network live is on cable and Paramount+"
+    },
+    {
+      "channel": "CMT",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "CMT live is on cable and Paramount+"
+    },
+    {
+      "channel": "MTV",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "MTV live is on cable and Paramount+"
+    },
+    {
+      "channel": "MTV2",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "MTV2 live is on cable and Paramount+"
+    },
+    {
+      "channel": "VH1",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "Paramount+",
+      "legal_url": "https://www.paramountplus.com/",
+      "notes": "VH1 live is on cable and Paramount+"
+    },
+    {
+      "channel": "BET Her",
+      "category": "Entertainment",
+      "owner": "Paramount",
+      "legal_service": "BET+ / Paramount+",
+      "legal_url": "https://www.bet.com/",
+      "notes": "BET Her live is on cable and BET+"
+    },
+    {
+      "channel": "ESPN",
+      "category": "Sports",
+      "owner": "Disney",
+      "legal_service": "ESPN app",
+      "legal_url": "https://www.espn.com/",
+      "notes": "ESPN live needs a TV provider or ESPN Unlimited, select free clips on ESPN.com"
+    },
+    {
+      "channel": "ESPN2",
+      "category": "Sports",
+      "owner": "Disney",
+      "legal_service": "ESPN app",
+      "legal_url": "https://www.espn.com/",
+      "notes": "ESPN2 live needs a TV provider or ESPN Unlimited"
+    },
+    {
+      "channel": "ESPNews",
+      "category": "Sports",
+      "owner": "Disney",
+      "legal_service": "ESPN app",
+      "legal_url": "https://www.espn.com/",
+      "notes": "ESPNews live needs a TV provider or ESPN Unlimited"
+    },
+    {
+      "channel": "FS1",
+      "category": "Sports",
+      "owner": "Fox",
+      "legal_service": "Fox One",
+      "legal_url": "https://www.fox.com/",
+      "notes": "FS1 live needs a TV provider or Fox One"
+    },
+    {
+      "channel": "FS2",
+      "category": "Sports",
+      "owner": "Fox",
+      "legal_service": "Fox One",
+      "legal_url": "https://www.fox.com/",
+      "notes": "FS2 live needs a TV provider or Fox One"
+    },
+    {
+      "channel": "NFL Network",
+      "category": "Sports",
+      "owner": "NFL",
+      "legal_service": "NFL+",
+      "legal_url": "https://www.nfl.com/",
+      "notes": "NFL Network live needs a TV provider or NFL+"
+    },
+    {
+      "channel": "NBA TV",
+      "category": "Sports",
+      "owner": "NBA",
+      "legal_service": "NBA League Pass",
+      "legal_url": "https://www.nba.com/",
+      "notes": "NBA TV live needs a TV provider or NBA League Pass"
+    },
+    {
+      "channel": "MLB Network",
+      "category": "Sports",
+      "owner": "MLB",
+      "legal_service": "MLB.tv",
+      "legal_url": "https://www.mlb.com/",
+      "notes": "MLB Network live needs a TV provider or MLB.tv"
+    },
+    {
+      "channel": "NHL Network",
+      "category": "Sports",
+      "owner": "NHL",
+      "legal_service": "ESPN+",
+      "legal_url": "https://www.espn.com/",
+      "notes": "NHL Network live needs a TV provider"
+    },
+    {
+      "channel": "Golf Channel",
+      "category": "Sports",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "Golf Channel live is on cable and Peacock"
+    },
+    {
+      "channel": "Tennis Channel",
+      "category": "Sports",
+      "owner": "Sinclair",
+      "legal_service": "Tennis Channel app",
+      "legal_url": "https://www.tennischannel.com/",
+      "notes": "Tennis Channel live needs a TV provider"
+    },
+    {
+      "channel": "CNN",
+      "category": "News",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "CNN live is on cable and Max, CNN.com has free clips"
+    },
+    {
+      "channel": "MSNBC",
+      "category": "News",
+      "owner": "NBCUniversal",
+      "legal_service": "Peacock",
+      "legal_url": "https://www.peacocktv.com/",
+      "notes": "MSNBC live is on cable and Peacock"
+    },
+    {
+      "channel": "Fox News",
+      "category": "News",
+      "owner": "Fox",
+      "legal_service": "Fox Nation",
+      "legal_url": "https://www.foxnews.com/",
+      "notes": "Fox News live is on cable and Fox Nation"
+    },
+    {
+      "channel": "Food Network",
+      "category": "Lifestyle",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max / Discovery+",
+      "legal_url": "https://www.max.com/",
+      "notes": "Food Network live is on cable and Max"
+    },
+    {
+      "channel": "HGTV",
+      "category": "Lifestyle",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max / Discovery+",
+      "legal_url": "https://www.max.com/",
+      "notes": "HGTV live is on cable and Max"
+    },
+    {
+      "channel": "Turner Classic Movies",
+      "category": "Movies",
+      "owner": "Warner Bros. Discovery",
+      "legal_service": "Max",
+      "legal_url": "https://www.max.com/",
+      "notes": "TCM live is on cable and Max"
+    }
+  ]
+}
